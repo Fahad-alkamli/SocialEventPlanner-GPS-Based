@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Social Event Planner</string>
+    <string name="title_activity_main_page">MainPage</string>
+    <string name="attendees">Attendees:</string>
+    <string name="notes">Notes:</string>
+    <string name="title">Title:</string>
+    <string name="startdate">StartDate:</string>
+    <string name="enddate">EndDate:</string>
+    <string name="venue">Venue:</string>
+    <string name="location">Location:</string>
+    <string name="forwardButton"><![CDATA[->]]></string>
+    <string name="deletebutton">X</string>
+    <string name="you_don_apos_t_have_any_notes">You don\'t have any events.</string>
+    <string name="attendeesListHeaderTitle">Attendees:</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="package_name">com.example.d0l1.socialeventplanner</string>
+</resources>

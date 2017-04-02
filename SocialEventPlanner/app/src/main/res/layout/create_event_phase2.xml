@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".View.createEventPhase2">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="1"
+        android:id="@+id/linearLayout7"
+        android:layout_below="@+id/createNoteButton"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="50dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="@string/notes"
+            android:id="@+id/textView6"
+
+            android:layout_below="@+id/textView"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="5dp" />
+        <ScrollView
+            android:layout_width="fill_parent"
+            android:layout_height="50dp" >
+            <EditText
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:singleLine="false"
+
+                android:inputType="text"
+                android:id="@+id/notesTextBox" />
+        </ScrollView>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/RecordButton"
+        android:layout_alignParentStart="true"
+        android:id="@+id/linearLayout8"
+        android:layout_marginTop="50dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="@string/attendees"
+            android:id="@+id/textView7" />
+
+        <Button
+            android:id="@+id/addNewAttendessButton"
+            android:text="+"
+            android:textColor="#FFFFFF"
+            android:textSize="30sp"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:background="@drawable/normal_button"
+            android:shadowColor="#3f51b5"
+            android:shadowRadius="5"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_gravity="right" />
+
+        <ListView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/AttendessListBox"
+            android:layout_marginTop="10dp"
+            android:divider="#ffffff"
+            android:dividerHeight="20dp"
+             />
+    </LinearLayout>
+
+    <Button
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:text="√"
+        android:textColor="#FFFFFF"
+        android:id="@+id/createNoteButton"
+        android:background="@drawable/normal_button"
+        android:onClick="createEvent"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+
+        />
+
+    <FrameLayout
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_gravity="right"
+        android:background="@drawable/record_button_layout"
+        android:layout_below="@id/linearLayout7"
+        android:layout_alignParentRight="true"
+        android:id="@+id/RecordButton"
+        android:layout_marginRight="30dp">
+
+    </FrameLayout>
+
+
+    <FrameLayout
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:background="@android:drawable/ic_media_play"
+        android:id="@+id/playButton"
+        android:onClick="playVoiceNote"
+        android:layout_above="@+id/linearLayout8"
+        android:layout_toEndOf="@+id/textView9"
+        android:layout_marginStart="20dp"></FrameLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="VoiceNote:"
+        android:layout_alignTop="@+id/playButton"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="10dp"
+        android:id="@+id/textView9" />
+
+</RelativeLayout>
