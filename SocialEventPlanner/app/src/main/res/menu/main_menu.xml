@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/WeeklyViewButton"
+        android:title="Weekly View"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/ascending"
+        android:title="Order Ascending"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/descending"
+        android:title="Order Descending"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/settings"
+        android:title="settings"
+        app:showAsAction="never"
+        />
+
+</menu>

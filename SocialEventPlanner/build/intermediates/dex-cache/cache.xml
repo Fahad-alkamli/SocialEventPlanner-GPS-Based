@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\ce9739fa5a92af1822cb9dffb1147eaf7c4cdb1a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="72eacac37fc64e95d53abd2a041bf81a952d8615">
+        <dex dex="C:\Users\d0l1\AndroidStudioProjects\SocialEventPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b836d6523fee0665c828d01962cd7cd4c3223403\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\0cf81400d571800f4b5af0bcb4a3b85e15131ac9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\d0l1\AndroidStudioProjects\SocialEventPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2d1ea7703d5501692a8722e6510ca452217561cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\ac39500b8ad61914907c93ab976c82b8fda319cd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e6e2251f3d3abf4eecd6bf6919d41fc7af497852">
+        <dex dex="C:\Users\d0l1\AndroidStudioProjects\SocialEventPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d468d75f997cd6cb2acd3cd58326ed5fa004a356\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\11d301145c1409928b1a32d66cc87ab2c67c2a41\output\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\d0l1\AndroidStudioProjects\SocialEventPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_dc4d0841fdfcfacf0e27dc9491775fb5db15d3ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\7a51eac97068b059358f8ff161647be2be1578ce\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9d48baf96c7e187991a9befa833bebd181960a9">
+        <dex dex="C:\Users\d0l1\AndroidStudioProjects\SocialEventPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5b52b3e7c134fa3d6d90311df05851119de03f42\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\f886fb2dfaeb181eaec5e5cab95f0bfde8d085cf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="58c9f5ee817fdb8b658fd7455fadfb74119f7ee9">
+        <dex dex="C:\Users\d0l1\AndroidStudioProjects\SocialEventPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fd222f5a81593e0468da774779adae114993fd7d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\dc03e8d6d4a344dd8e4fd857df87b7ff20cd55f1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4348dd26d83b56c2058b768222c3271bce911724">
+        <dex dex="C:\Users\d0l1\AndroidStudioProjects\SocialEventPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a4ef95783b6bb72a4148509fd235b8b1a34bed0a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\14a47cde3805164116adf787a9fff445d94151f8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="954697ee6ea7bdd596babf4f70e8b7a17ca7649e">
+        <dex dex="C:\Users\d0l1\AndroidStudioProjects\SocialEventPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e5ea84607afe0c270a09aca1b8d87d4f8dd7000e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\6be9271054a668d486237946f49b558547d883e1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
+        <dex dex="C:\Users\d0l1\AndroidStudioProjects\SocialEventPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4ec4a554b57270f8b2ef44d8acc3261411006e4c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\ce521230341d8380b23dff56034864ddd79fa19d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98e97da89d4df8e2f6eba63498d3d46a587372f2">
+        <dex dex="C:\Users\d0l1\AndroidStudioProjects\SocialEventPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_34f6f79968e80fb1d83ac4cdf697076bed1e6c8c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\11d301145c1409928b1a32d66cc87ab2c67c2a41\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\d0l1\AndroidStudioProjects\SocialEventPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d94ad3f914a77282ea828e2b7e73a64f5d474e04\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\c937d845b112d1bdf3f9cd0937a07730545ab948\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\d0l1\AndroidStudioProjects\SocialEventPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_88a5ae14c17aebd4b4f0c2db4dbec6a4b1fe1fe4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\ea822e6f5e0d68ce77b6030e6a984a98889f80e7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d49118ba67a101c4895f0581f17142cba85b330b">
+        <dex dex="C:\Users\d0l1\AndroidStudioProjects\SocialEventPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0a950d5be4421be13e2d638535a2ee6a6fca1444\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\6485123ee28cdcf2fa52c1e1b0254b9ea6f4efaf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e04c0b3683ca45b343284d93e5594b5f9044551">
+        <dex dex="C:\Users\d0l1\AndroidStudioProjects\SocialEventPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a2367bf04a15197d8de5ffb7b257d1e58b78104a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\396103f9e341dad7a24abd79229e405f101af3ca\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="C:\Users\d0l1\AndroidStudioProjects\SocialEventPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_69bb1d7fd183503ace29bd66bada448a8f9c549e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\9c3f5e6c9b64fcac51c85eed984414afea9ac30b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="C:\Users\d0l1\AndroidStudioProjects\SocialEventPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8cabbcb59846c73a3a32f0a613e23baf1f2fd07f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\f34b577818d384601b79588db7b243513dc80653\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\d0l1\AndroidStudioProjects\SocialEventPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f6916d435063e92f62039f1423f7fd3db7936e46\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\ad613a20949a889180b36c297426e268d354eb98\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\d0l1\AndroidStudioProjects\SocialEventPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_ccdd62753089b2bedbc3e927022d5b090e665848\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\64c114b3b5ce513e5c5f53fc7a4417952723f643\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
+        <dex dex="C:\Users\d0l1\AndroidStudioProjects\SocialEventPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e572fb567ffb40df885f28e82e6e24e0978d551d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\d0l1\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\d0l1\AndroidStudioProjects\SocialEventPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_ea0d60430980b6a08b621df8932e6e8e5a450da9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\ff6b40461642cea84d38df0b06d4bdf52c0825b4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="C:\Users\d0l1\AndroidStudioProjects\SocialEventPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_25e9ed8550b94c82b96354752df54f788ff431be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\a8039af252b0bbe413da0df6995434438134a4b0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ad33eb600f3d80bdff5ce355c90d5533ade652a">
+        <dex dex="C:\Users\d0l1\AndroidStudioProjects\SocialEventPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e02e507e205cf619459d36f70f66e9d23c936cab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\7ba1c8d2f979a92522505650e50d40611d6ccf3d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\d0l1\AndroidStudioProjects\SocialEventPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b98544d4e12904ebf8307c9d1c97453a3052b279\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\1d156582fd91d30b1e3b2fca1f6ff8b6ebd0a433\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7bc6ea2bcfd6de4b7085e0f3a01616c5c8e0e2ad">
+        <dex dex="C:\Users\d0l1\AndroidStudioProjects\SocialEventPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9124f337c2d6608a139e88937aadc66d367424b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\4180407fb080629ca1e7a869e662f744bc31b5ff\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dab6944860c986980dcc6002a5ca2f127b587317">
+        <dex dex="C:\Users\d0l1\AndroidStudioProjects\SocialEventPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1aa05c9eda200f40521b552592580f2da98e188c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\955566ce9157b7fc73fc6b34b61721e5286dc84a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="C:\Users\d0l1\AndroidStudioProjects\SocialEventPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0fbac45d779b108ee1e5876cd09cbc4aab57fe7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\befd648cda182586181f9e493852cb7c11f53a06\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\d0l1\AndroidStudioProjects\SocialEventPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ebf0232accb5b4aa5d36ed7fd5dc992e85704c59\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\a9bbe6be2e0d1919e59046327a65735a28f47f06\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="C:\Users\d0l1\AndroidStudioProjects\SocialEventPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c9e48fd4ddf7d8e43f14e431f69fb07ac3a4de9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\fde70d35e397c9f805ffd2e79a51f7fcb51fdc15\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\d0l1\AndroidStudioProjects\SocialEventPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_883001839c3150e5c10f893794d34c3eb23a81f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\ec637c6e2224970a0d8975275e8904fae4b55f4d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="59a16a4a42d25b2c243dd1e8aea87d06895b4a06">
+        <dex dex="C:\Users\d0l1\AndroidStudioProjects\SocialEventPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3aad49714a8d9e744e75894aba0475c2cf10eb6d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\679905b5705ab3b483f44a07c521e04011455061\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5e8e535d15834e824817bdf5370556f62b4b2a5">
+        <dex dex="C:\Users\d0l1\AndroidStudioProjects\SocialEventPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a6e296c6161703712a4562568cc72265eac2273e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\a4c58315a7760888801bdd05ef2f1e76db8c1b6c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="C:\Users\d0l1\AndroidStudioProjects\SocialEventPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_572c5469ad64e229eda2efcc58daf40b4414afae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\be9ad299c08026dd8db1d020f105b1cc3576cf47\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="C:\Users\d0l1\AndroidStudioProjects\SocialEventPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_23322cfd61ff507ebdede834ee58d2e19d8ecb8b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\0be38efb6a0cac7d3a95cec47077f5a665642f8e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\d0l1\AndroidStudioProjects\SocialEventPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e97e427a46d68c0eae9934805433e075ff552223\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\09bc390c7af684e6fd16cf60a0ca3cf4b85c86ef\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
+        <dex dex="C:\Users\d0l1\AndroidStudioProjects\SocialEventPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1d8de9e6c902fe9d3b67bf3d87b1e4c2655d4413\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\e05698d51bc136eb1e3cb5447000477bc5d104d8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="C:\Users\d0l1\AndroidStudioProjects\SocialEventPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8dc546492ec7f899089b81328feea32006edffe3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\db7fc64e266ef5c75353e233f182dde981dcc2ee\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c8f5d56f8f8a287c95e02c542baade138a378048">
+        <dex dex="C:\Users\d0l1\AndroidStudioProjects\SocialEventPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3a9b97012a8a3df52e1adf500952384e7ff32850\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\3fdccc5bcaa11274481272553f9396666a5c0108\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03829a2618892d438a1f59c6286699ca1f476e93">
+        <dex dex="C:\Users\d0l1\AndroidStudioProjects\SocialEventPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7b303b1681dc5bae6054f5709e0394499871b936\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\f5688df198a3abd2d25cff4bbbe19ef34e1f27ae\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ce5e7a4a146dddd1d9e66b09c714a6c149916d8">
+        <dex dex="C:\Users\d0l1\AndroidStudioProjects\SocialEventPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_63cdd6a8b10048f10f5001520265588218d7e9ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\a6125543a7915ebb0606eb073dd3943859144d0f\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\d0l1\AndroidStudioProjects\SocialEventPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_b8508b81188d90b3acd7f8e44dfce6ecbb74992f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\19ae730ecf06b730ebd5783ac6e0f5676941fcb0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="C:\Users\d0l1\AndroidStudioProjects\SocialEventPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_722e5a6fbf54a80af2aaec068287b1c89ca37360\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\ad613a20949a889180b36c297426e268d354eb98\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\d0l1\AndroidStudioProjects\SocialEventPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_86d8b676bee990dfb48e498ff1b8edede0113c99\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\0be38efb6a0cac7d3a95cec47077f5a665642f8e\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\d0l1\AndroidStudioProjects\SocialEventPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_a34e930671d300806b797fab670bbe17c121c72e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\4b0d2505bc020c06c90575bae55696969031d591\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="C:\Users\d0l1\AndroidStudioProjects\SocialEventPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e54e3cac389077fb0c024d18a38df8a2b9083399\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\d858c2b384f0b5e7acf592dcf819e44ec82e7bee\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\d0l1\AndroidStudioProjects\SocialEventPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a5b35936d7f7ce9774f8e701ccac24c849b7c56e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\d858c2b384f0b5e7acf592dcf819e44ec82e7bee\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\d0l1\AndroidStudioProjects\SocialEventPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_346b99ff1bd79de23b174d39511245049fa7f6a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\de835fb5a47eff7bd34c41309c07f1a5feb13e35\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ece40b09e9d4d488bc270cf6af5a9af73bc1cfa3">
+        <dex dex="C:\Users\d0l1\AndroidStudioProjects\SocialEventPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2c839d482896ef4d092069664392bd5c17c76e09\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\02eba98523bb2664941fd10b1329e095051eb23e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\d0l1\AndroidStudioProjects\SocialEventPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b7ff1070d91c8fca53437877536a4ac620b7b0c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\02eba98523bb2664941fd10b1329e095051eb23e\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\d0l1\AndroidStudioProjects\SocialEventPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_71399d067a7509db4f74420eedd69513adb08e89\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\94e6463c9540d713e71cee453f746c20c8f455b4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a432629397351d3ec7f27a23d258b229b81af08f">
+        <dex dex="C:\Users\d0l1\AndroidStudioProjects\SocialEventPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a9cda956c83f0f33fbf43d8d5aa39297198541d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\287864e0f53b975f0c907d1a3eaa5a9abdb72cba\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="C:\Users\d0l1\AndroidStudioProjects\SocialEventPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8d040ed2b2916d3334e5b1b16e268ca7d45d7cf5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\0d4cefd7f74d12ed2a3ac6c507121e9c109c3a70\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd51b31890731591729f046d7a09c4fe4e483ed1">
+        <dex dex="C:\Users\d0l1\AndroidStudioProjects\SocialEventPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5cf904214b0ccaecd31526c6996f2047d641dcf5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\e0bf55d0aea7b1b26a3f05f8356577f5ac74e586\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="C:\Users\d0l1\AndroidStudioProjects\SocialEventPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8df44b565f79103f2ff5309ce9eadf871541fa81\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\3a964a59d17a58a0d1325c7c0b55873ab481688e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="C:\Users\d0l1\AndroidStudioProjects\SocialEventPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0d5f4d4a1cea372fd8fe1899a164e3d91c34f42b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\10ffb5c1225b6daee1557ce494a793c8c5621cc5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6666dd525c3da197e7d07f4f23ef5fc7881a697b">
+        <dex dex="C:\Users\d0l1\AndroidStudioProjects\SocialEventPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_76006db9eadda656a1b0ef47c54c69e30b37b7a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\2a6c6e298eb8f4159c6d4f372a1a6492421680d3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="C:\Users\d0l1\AndroidStudioProjects\SocialEventPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4aaf40b4935432fa234e0857830d5d77e9050f73\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\4fe3c88807b13b8ee1485947761637d7d574d5b9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="C:\Users\d0l1\AndroidStudioProjects\SocialEventPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_de399f15581fbb13dd6da969d7b1ae846a463fe3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\a6125543a7915ebb0606eb073dd3943859144d0f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\d0l1\AndroidStudioProjects\SocialEventPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2532502a17cb57d362f2a5da744abdf24d9f236a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\4ec8c4c90f4eb94166fc8ec78878dac8743779d2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="736d8893fb702f128a153c9d87c9c29724d37872">
+        <dex dex="C:\Users\d0l1\AndroidStudioProjects\SocialEventPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1bc7f634abd20c1e5c3cedde35801fe990b38107\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\5feb09860b950ccf4c8fd4d16adc39f61629ebe4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="C:\Users\d0l1\AndroidStudioProjects\SocialEventPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ed11f0cada5e0bfde5f0e11b68bd916b221640ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\a47c2145a7c0f9ec2a5614752052f1dda0bc76fd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8197651ce1af4d89b47f4545cc720bc4f8611e7d">
+        <dex dex="C:\Users\d0l1\AndroidStudioProjects\SocialEventPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4c03d5212059dcc33027d49385f21a41c4997109\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\bf2dda2957d4376a760bb3234deddbabc7a93ab2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b1acf13f1b7d8232af78a30833f9a966d1394c84">
+        <dex dex="C:\Users\d0l1\AndroidStudioProjects\SocialEventPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9eef41b538bc947f376512888d77e13545db8796\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\7b074dcf41d5eaaf753df46c2ad0efe6e6797c62\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ba47b210d36301e237ccfea860eaada04590f12a">
+        <dex dex="C:\Users\d0l1\AndroidStudioProjects\SocialEventPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b433ff5c6c047536236e5b12eb8537a82e7956d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\c9beedc32f31b50425af1e0a78bb65b525f0cc07\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e35002351f2d415093a9b564652d4b56be6a0593">
+        <dex dex="C:\Users\d0l1\AndroidStudioProjects\SocialEventPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_41c6f692a6313425f8f0d903b4e8854228acb7fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\c515a7ebc79af2fafc006d88b4fc9f1d12eb60c3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7ea53c4458b80e8ea71f7fd6831fa184c501377b">
+        <dex dex="C:\Users\d0l1\AndroidStudioProjects\SocialEventPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_94412c9613038a5297e0732fe03e62356a7bbecb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\2a94388e177daa8ebac3c1fa0261ee9e2f76dcc0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
+        <dex dex="C:\Users\d0l1\AndroidStudioProjects\SocialEventPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ed217d9a63829a42327301895b5a399944bd27d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\fb65beee367f74a3658d9d38d755983eb12952e5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c10df7344e31161852c20bb8143fc37319aa10ec">
+        <dex dex="C:\Users\d0l1\AndroidStudioProjects\SocialEventPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_391da289f909a48fc84143c739ab11bb88e47cc9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\a8d32288a266c71a37e5818ef6442e698a9c7552\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="461e4257888c25ec05abcd91e758fe7f4949230a">
+        <dex dex="C:\Users\d0l1\AndroidStudioProjects\SocialEventPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dd7538770da572f2438a8d372c7087d86c6ce09a\classes.dex" />
+    </item>
+
+</items>
